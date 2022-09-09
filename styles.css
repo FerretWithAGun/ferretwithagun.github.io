@@ -1,0 +1,28 @@
+:root {
+	--background-color: #0E0E0E;
+	--accent: #914CFF;
+
+	font-family: "Courier New", monospace, sans-serif;
+	font-size: 0.8em;
+	background-color: var(--background-color);
+	color: var(--accent);
+}
+
+body {
+	border: dashed var(--accent) 1px;
+	margin: 20px 5vw;
+	text-align: center;
+	padding: 1vw;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+.ascii-raccoon {
+	font-size: 0.5vw;
+	border-bottom: dashed var(--accent) 1px;
+	padding: 60px 20px;
+	display: inline-block;
+	text-align: left;
+}
