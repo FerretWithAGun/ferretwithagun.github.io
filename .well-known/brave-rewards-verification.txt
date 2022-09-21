@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: vannzilla.github.io
-Token: b107e4078b9784ae85e32c0fee691beb063ee0f0af5b54ad389695fa9f44d22e
