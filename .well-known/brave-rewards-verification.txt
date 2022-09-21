@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ferretwithagun.github.io
+Token: 1ff8a8797bad9b61f4547c1e68adb23e855b12e7c19f8c5716d7be518f8f828a
